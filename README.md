@@ -39,7 +39,7 @@ Before you begin, ensure you have the following:
 To install the extension, use the command:
 
 ```bash
-gemini extensions install https://github.com/gemini-cli-extensions/bigquery-conversational-analytics
+gemini extensions install https://github.com/GoogleCloudPlatform/bigquery-conversational-analytics-plugin
 ```
 
 ### Configuration
@@ -100,7 +100,7 @@ This extension provides a comprehensive set of tools:
 ## Additional Extensions
 
 Find additional extensions to support your entire software development lifecycle at [github.com/gemini-cli-extensions](https://github.com/gemini-cli-extensions), including:
-* [BigQuery Data Analytics](https://github.com/gemini-cli-extensions/bigquery-data-analytics)
+* [BigQuery Data Analytics](https://github.com/GoogleCloudPlatform/bigquery-data-analytics-plugin)
 * and more!
 
 ## Troubleshooting

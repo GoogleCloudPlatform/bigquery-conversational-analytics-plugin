@@ -21,7 +21,7 @@ The core logic for this extension is handled by a pre-built `toolbox` binary. Th
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/bigquery-conversational-analytics.git
+    git clone https://github.com/GoogleCloudPlatform/bigquery-conversational-analytics-plugin.git
     cd bigquery-conversational-analytics
     ```
 
