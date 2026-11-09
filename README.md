@@ -99,7 +99,7 @@ This extension provides a comprehensive set of tools:
 
 ## Additional Extensions
 
-Find additional extensions to support your entire software development lifecycle at [github.com/gemini-cli-extensions](https://github.com/gemini-cli-extensions), including:
+Find additional extensions to support your entire software development lifecycle at [github.com/GoogleCloudPlatform/data-cloud-plugins](https://github.com/GoogleCloudPlatform/data-cloud-plugins), including:
 * [BigQuery Data Analytics](https://github.com/GoogleCloudPlatform/bigquery-data-analytics-plugin)
 * and more!
 
